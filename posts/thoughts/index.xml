@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Some thoughts on Linsong&#39;s Blog</title>
+    <link>https://SunnyScenery.github.io/posts/thoughts/</link>
+    <description>Recent content in Some thoughts on Linsong&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Sep 2022 20:02:35 -0700</lastBuildDate><atom:link href="https://SunnyScenery.github.io/posts/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://SunnyScenery.github.io/posts/thoughts/welcome/</link>
+      <pubDate>Sat, 10 Sep 2022 20:02:35 -0700</pubDate>
+      
+      <guid>https://SunnyScenery.github.io/posts/thoughts/welcome/</guid>
+      <description>Heading 1 Heading 2 Paragraph 1</description>
+    </item>
+    
+  </channel>
+</rss>
